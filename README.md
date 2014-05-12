@@ -32,7 +32,7 @@ L'application calcule à la seconde prêt le temps de cuisson permettant une pr�
 
 4.1. Cas d'utilisation 
 
-Mettre l'image des cas d'utilisation fabriquer à l'aide de Visual Studio 
+Diagramme(visio car mauvaises version visual): https://imagizer.imageshack.us/v2/706x397q90/844/q6xx.jpg
 
 4.2. Diagramme états-transitions 
 
